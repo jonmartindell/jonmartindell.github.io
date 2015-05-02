@@ -19,6 +19,6 @@ excerpt: !ruby/object:Hpricot::Doc
   options: {}
 featured_image: /assets/spoiled-234x300.jpg
 ---
-![My helpful screenshot]({{ page.featured_image}})
+![Featured Image]({{page.featured_image}})
 
 Great information on how to talk to your kids about money and do what you can to create fiscally responsible adults (and teenagers apparently).

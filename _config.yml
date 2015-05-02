@@ -10,3 +10,5 @@ github_username:  jonmartindell
 
 # Build settings
 markdown: kramdown
+
+gems: [octopress-debugger]
