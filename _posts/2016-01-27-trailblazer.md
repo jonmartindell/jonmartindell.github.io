@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trailblazer: A New Architecture For Rails - Nick Sutterer
+title: Trailblazer - A New Architecture For Rails - Nick Sutterer
 date: 2016-01-26 20:50:05.000000000 -04:00
 categories:
 - Job Stuff
@@ -19,7 +19,7 @@ author:
   last_name: ''
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
-featured_image: /assets/trailblazer.jpg
+featured_image: /assets/trailblazer_pic.jpg
 ---
 ![Featured Image]({{page.featured_image}})
 
