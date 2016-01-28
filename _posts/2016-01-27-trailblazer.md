@@ -23,4 +23,4 @@ featured_image: /assets/trailblazer.jpg
 ---
 ![Featured Image]({{page.featured_image}})
 
-I'm glad I read this and am very interested in trying to apply these techniques and gems to upcoming projects. Definitely a good approach and a need for this in the rails community.
+I am glad I read this and am very interested in trying to apply these techniques and gems to upcoming projects. Definitely a good approach and a need for this in the rails community.
