@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Beyond the Goal - Eliyahu Goldratt
-date: 2017-08-10 20:50:05.000000000 -04:00
+title: Peopleware - Tom Demarco Timothy Lister
+date: 2017-11-01 20:50:05.000000000 -04:00
 categories:
 - Job Stuff
 tags:
@@ -16,8 +16,8 @@ author:
   last_name: ''
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
-featured_image: /assets/beyond_the_goal.jpg
+featured_image: /assets/peopleware.jpg
 ---
 ![Featured Image]({{page.featured_image}})
 
-Really fun and interesting audiobook. I'm always drawn to contranian type thinkers. Definitely a lot of gems in here that most businesses have not come to realize yet.
+I liked this book a lot. It was an easy read and interesting. I'm always surprised to see how long ago people wrote about and solved common everyday problems.
