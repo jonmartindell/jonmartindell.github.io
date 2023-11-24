@@ -1,0 +1,10 @@
+@document domain("trello.com") {
+  [data-testid="header-container"] {
+      max-height: 0px;
+      min-height: 0px;
+  }
+  
+  .board-header {
+    height: 0px;
+  }
+}
